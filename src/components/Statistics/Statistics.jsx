@@ -15,7 +15,6 @@ const Statistics = ({ title, stats }) => {
                         </li>
                     )
                 })}
-
             </ul>
         </section>
     )
